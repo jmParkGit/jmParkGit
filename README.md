@@ -1,4 +1,4 @@
-### Hello. this is Jaemin. 👋
+### Hello. this is Jaemin. 😀😁😂🐱
 
 ![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmParkGit&theme=calm&show_icons=true)
 
