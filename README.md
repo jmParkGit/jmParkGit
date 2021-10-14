@@ -1,7 +1,8 @@
 ### Hello. this is Jaemin. 😀😁😂🐱
 
 ![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmParkGit&theme=calm&show_icons=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmParkGit&count_private=true&theme=calm&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmParkGit&theme=calm&count_private=true)
+
 
 
 
